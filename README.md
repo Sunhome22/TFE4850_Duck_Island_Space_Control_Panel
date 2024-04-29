@@ -1,2 +1,2 @@
 # TFE4850_Duck_Island_Space_Control_Panel
-Python code for the HAT control panel module
+Python script for the Raspberry Pi 4B HAT control panel module.
