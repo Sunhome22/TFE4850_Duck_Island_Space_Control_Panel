@@ -10,10 +10,10 @@ The modified Magic-Sand software runs on port 11999.
 
 The file should look something like this:
 
-''
+```
 HOST="192.168.x.x"
 PORT=11999
-''
+```
 
 Then install the required dotenv package by running:
 
